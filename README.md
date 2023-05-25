@@ -1,2 +1,2 @@
 # BI Project:Data-Driven Transportation Problems Analysis
-Omer Ben Yacov, Tom caspi and Matan Dubrovensky
+Omer Ben Yaacov, Tom caspi and Matan Dubrovensky
